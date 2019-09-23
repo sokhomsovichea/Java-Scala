@@ -1,0 +1,1 @@
+This repository is for document all the java and scala exercise that I've solved
